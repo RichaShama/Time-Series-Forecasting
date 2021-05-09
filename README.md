@@ -17,7 +17,13 @@ In this project, I have worked with two machine learning models - ARIMA and SARI
 # Data Visualisation
 
 <p align="center">
-  <img width="45%" src="https://github.com/RichaShama/Regression-Analysis/blob/main/time-series.png" alt></p>
+  <img width="45%" src="https://github.com/RichaShama/Time-Series-Forecasting/blob/main/time-series-arima.png" alt></p>
+  <p  align="center"> <em>ARIMA model.</em>
+</p> 
+
+
+<p align="center">
+  <img width="45%" src="https://github.com/RichaShama/Time-Series-Forecasting/blob/main/time-series.png" alt></p>
   <p  align="center"> <em>SARIMA model.</em>
 </p> 
 
